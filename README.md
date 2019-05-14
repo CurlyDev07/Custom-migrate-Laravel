@@ -1,2 +1,3 @@
-# Custom-migrate-Larave
+# Custom-migrate-Laravel
 Laravel Custom DB Migrate
+
